@@ -1,4 +1,4 @@
-FROM jolokia/java-jolokia:8
+FROM jolokia/java-jolokia:7
 
 MAINTAINER fabric8@googlegroups.com
 
